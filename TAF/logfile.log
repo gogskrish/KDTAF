@@ -1,0 +1,43 @@
+2014-09-22 04:07:57,789 INFO  [Log] **************************************************************************************** 
+2014-09-22 04:07:57,789 INFO  [Log] **************************************************************************************** 
+2014-09-22 04:07:57,789 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-09-22 04:07:57,789 INFO  [Log] **************************************************************************************** 
+2014-09-22 04:07:57,789 INFO  [Log] **************************************************************************************** 
+2014-09-22 04:07:57,791 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-09-22 04:07:57,793 INFO  [Log] Opening Browser 
+2014-09-22 04:08:05,443 INFO  [Log] Mozilla browser started 
+2014-09-22 04:08:05,472 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-09-22 04:08:05,472 INFO  [Log] X 
+2014-09-22 04:08:05,472 INFO  [Log] X 
+2014-09-22 04:08:05,472 INFO  [Log] X 
+2014-09-22 04:08:05,472 INFO  [Log] X 
+2016-05-11 23:43:53,050 INFO  [Log] **************************************************************************************** 
+2016-05-11 23:43:53,053 INFO  [Log] **************************************************************************************** 
+2016-05-11 23:43:53,053 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-05-11 23:43:53,053 INFO  [Log] **************************************************************************************** 
+2016-05-11 23:43:53,053 INFO  [Log] **************************************************************************************** 
+2016-05-11 23:43:53,055 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-05-11 23:43:53,056 INFO  [Log] Opening Browser 
+2016-05-11 23:44:11,160 INFO  [Log] Mozilla browser started 
+2016-05-11 23:44:11,413 INFO  [Log] Navigating to URL 
+2016-05-11 23:44:15,213 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2016-05-11 23:44:15,724 INFO  [Log] Entering the text in txtbx_UserName 
+2016-05-11 23:44:17,837 INFO  [Log] Entering the text in txtbx_Password 
+2016-05-11 23:44:18,103 INFO  [Log] Clicking on Webelement btn_LogIn 
+2016-05-11 23:44:18,487 INFO  [Log] Wait for 5 seconds 
+2016-05-11 23:44:23,627 INFO  [Log] Clicking on Webelement btn_LogOut 
+2016-05-11 23:44:33,732 ERROR [Log] Not able to click --- Unable to locate element: {"method":"xpath","selector":".//*[@id='account_logout']/a"}
+Command duration or timeout: 10.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.50.0', revision: '1070ace4650453d518aeb03e7a9a36c9d264a8e7', time: '2016-01-27 10:46:18'
+System info: host: 'USGTHIYAGA-C1', ip: '192.168.0.131', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_71'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fa2ff2b3-2d53-4a0f-b093-169933c81ab2
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2016-05-11 23:44:33,852 INFO  [Log] Closing the browser 
+2016-05-11 23:44:40,873 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-05-11 23:44:40,873 INFO  [Log] X 
+2016-05-11 23:44:40,873 INFO  [Log] X 
+2016-05-11 23:44:40,873 INFO  [Log] X 
+2016-05-11 23:44:40,873 INFO  [Log] X 
